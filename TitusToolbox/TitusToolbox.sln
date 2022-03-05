@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TitusToolbox.UI", "TitusToolbox.UI\TitusToolbox.UI.csproj", "{6CAAB8E0-A609-4EE4-9CA1-E05FCBC4C0E8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TitusToolbox.Library", "TitusToolbox.Library\TitusToolbox.Library.csproj", "{F3E10CFF-43A9-45D2-A0B8-EAC8BB8857C1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Root", "Root", "{DDAE5E0B-04D6-41B7-B7A1-580C2EDA1FAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CAAB8E0-A609-4EE4-9CA1-E05FCBC4C0E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CAAB8E0-A609-4EE4-9CA1-E05FCBC4C0E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CAAB8E0-A609-4EE4-9CA1-E05FCBC4C0E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CAAB8E0-A609-4EE4-9CA1-E05FCBC4C0E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3E10CFF-43A9-45D2-A0B8-EAC8BB8857C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3E10CFF-43A9-45D2-A0B8-EAC8BB8857C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3E10CFF-43A9-45D2-A0B8-EAC8BB8857C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3E10CFF-43A9-45D2-A0B8-EAC8BB8857C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84A2153C-0E21-47ED-BD99-7876762C792F}
+	EndGlobalSection
+EndGlobal
